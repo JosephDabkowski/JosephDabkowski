@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JosephDabkowski
+- 👀 I’m interested in making bots
+- 🌱 I’m currently learning cpp
+- 📫 How to reach me josephdabk@gmail.com
